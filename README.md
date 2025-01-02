@@ -1,1 +1,1 @@
-# password-generator
+https://3equoia.github.io/password-generator/
